@@ -1,2 +1,2 @@
 # Diffusion_Simulations_in_Channels
-Simulation of morphogen diffusion in channels with receptor binding
+Simulation of morphogen diffusion in channels with receptor binding. The code has been written im Mathematica 12.3 (Wolfram Research, Illinois, USA). All instructions are provided within the Mathematica file. When run it will provide as output a plot showing how the diffusion coefficient (im m^2/s) will change with distance (in m) given the user defined situation (channel width, binding and unbinding probbalities, diffusion coefficient in free space, number of particles, and simulation time steps and length). Simulations should be run long enough to converge. In the case provided in the file the simulations converges latest at 0.1 s; simulations are run over 2 s.
